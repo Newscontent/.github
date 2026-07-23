@@ -20,7 +20,6 @@ We build **learning-utility news**: 60-word briefs that teach you something usef
 | Resource | Link |
 |----------|------|
 | 🌐 Product site | [eyenewz.com](https://eyenewz.com) |
-| 🧭 Admin | [admin.eyenewz.com](https://admin.eyenewz.com) |
 | 📦 Repos | Browse organization repositories below |
 
 ### 🤝 How to get involved
