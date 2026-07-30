@@ -4,7 +4,7 @@ Welcome to **Newscontent** — the team behind **EyeNewz**, Mind Fuel short news
 
 ### 🙋‍♀️ Who we are
 
-We build **learning-utility news**: 60-word briefs that teach you something useful (AI, exams, careers, civic IQ) instead of doomscroll noise.
+We build **learning-utility news**: 75-word briefs that teach you something useful (AI, exams, careers, civic IQ) instead of doomscroll noise.
 
 **EyeNewz** is our Android-first product: curated stories from trusted publishers, smart push digests, and share-ready Mind Fuel cards.
 
