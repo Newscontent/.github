@@ -1,0 +1,49 @@
+name: Bug report
+description: Something is broken in EyeNewz (app, API, site, or admin).
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: repo
+    attributes:
+      label: Repo
+      description: Which repository owns this bug?
+      options:
+        - eyenewz-backend
+        - eyenewz-android
+        - eyenewz-ios
+        - eyenewz-website
+        - eyenewz-admin
+        - eyenewz-netlapse
+        - eyenewz-docs
+        - unsure
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What did you see? Include screenshots if useful.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should happen
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      description: App version, device, or URL (for example api.eyenewz.com/v1/feed).

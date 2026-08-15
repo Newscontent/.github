@@ -1,0 +1,39 @@
+name: Feature request
+description: A new capability or product improvement.
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: repo
+    attributes:
+      label: Repo
+      options:
+        - eyenewz-backend
+        - eyenewz-android
+        - eyenewz-ios
+        - eyenewz-website
+        - eyenewz-admin
+        - eyenewz-netlapse
+        - eyenewz-docs
+        - unsure
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What is hard or missing for users today?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What should we build? Keep it one slice.
+    validations:
+      required: true
+  - type: textarea
+    id: out_of_scope
+    attributes:
+      label: Out of scope
+      description: What this ticket should not include.

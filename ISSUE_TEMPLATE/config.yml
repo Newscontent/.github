@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: EyeNewz Issue Dashboard
+    url: https://github.com/orgs/Newscontent/projects/1
+    about: Kanban for all EyeNewz work (Todo / In Progress / Done).
+  - name: Docs hub
+    url: https://github.com/Newscontent/eyenewz-docs
+    about: Clone the repo that matches your role before opening an issue.
