@@ -1,6 +1,6 @@
 # Newscontent org profile
 
-Public GitHub org README for **EyeNewz**. The profile shown on [github.com/Newscontent](https://github.com/Newscontent) is [`profile/README.md`](profile/README.md).
+Public GitHub org README for **TooBrief**. The profile shown on [github.com/Newscontent](https://github.com/Newscontent) is [`profile/README.md`](profile/README.md).
 
 Also in this repo (org defaults for repos that lack their own):
 
@@ -10,4 +10,4 @@ Also in this repo (org defaults for repos that lack their own):
 - [`SECURITY.md`](SECURITY.md)
 - [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
 
-New hires: clone [eyenewz-docs](https://github.com/Newscontent/eyenewz-docs) first. Work board: [EyeNewz Issue Dashboard](https://github.com/orgs/Newscontent/projects/1).
+New hires: clone [toobrief-docs](https://github.com/Newscontent/toobrief-docs) first. Work board: [TooBrief Issue Dashboard](https://github.com/orgs/Newscontent/projects/1).

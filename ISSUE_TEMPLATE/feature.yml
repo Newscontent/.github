@@ -8,13 +8,13 @@ body:
     attributes:
       label: Repo
       options:
-        - eyenewz-backend
-        - eyenewz-android
-        - eyenewz-ios
-        - eyenewz-website
-        - eyenewz-admin
-        - eyenewz-netlapse
-        - eyenewz-docs
+        - toobrief-backend
+        - toobrief-android
+        - toobrief-ios
+        - toobrief-website
+        - toobrief-admin
+        - toobrief-netlapse
+        - toobrief-docs
         - unsure
     validations:
       required: true
