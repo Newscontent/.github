@@ -11,7 +11,8 @@ Welcome to **Newscontent** — the team behind **[TooBrief](https://toobrief.com
 | 📚 | Docs | [toobrief-docs](https://github.com/Newscontent/toobrief-docs) | — |
 | ⚙️ | Backend / API | [toobrief-backend](https://github.com/Newscontent/toobrief-backend) | [api.toobrief.com](https://api.toobrief.com/health) |
 | 🤖 | Android | [toobrief-android](https://github.com/Newscontent/toobrief-android) | Play Store `com.prod.contentnews` |
-| 🍏 | iOS | [toobrief-ios](https://github.com/Newscontent/toobrief-ios) | Experimental |
+| 🍏 | iOS (native SwiftUI) | [toobrief-ios](https://github.com/Newscontent/toobrief-ios) | App Store prep |
+| 🧩 | Shared KMP (iOS XCFramework) | [toobrief-shared](https://github.com/Newscontent/toobrief-shared) | Consumed by iOS |
 | 🌐 | Public website | [toobrief-website](https://github.com/Newscontent/toobrief-website) | [toobrief.com](https://toobrief.com) |
 | 🖥️ | Admin / newsroom | [toobrief-admin](https://github.com/Newscontent/toobrief-admin) | [api.toobrief.com/admin](https://api.toobrief.com/admin) |
 | 📡 | Network monitor | [toobrief-netlapse](https://github.com/Newscontent/toobrief-netlapse) | [netlapse.toobrief.com](https://netlapse.toobrief.com) |
